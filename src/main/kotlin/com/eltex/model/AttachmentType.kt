@@ -1,4 +1,4 @@
-package com.eltex
+package com.eltex.model
 
 enum class AttachmentType {
     IMAGE,

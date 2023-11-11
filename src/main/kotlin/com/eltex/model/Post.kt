@@ -1,4 +1,4 @@
-package com.eltex
+package com.eltex.model
 
 
 data class Post(

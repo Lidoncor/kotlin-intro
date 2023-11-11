@@ -1,5 +1,6 @@
 package com.eltex
 
+import com.eltex.model.Note
 import java.time.Instant
 
 class NoteService {
